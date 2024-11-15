@@ -8,3 +8,5 @@ Receitas:
 + Strogonoff
 + Pavê
 + pudim
++ Bolo de cenoura
+
