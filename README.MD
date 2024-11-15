@@ -7,3 +7,4 @@ Receitas:
 
 + Strogonoff
 + Pavê
++ pudim
